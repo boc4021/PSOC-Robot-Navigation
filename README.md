@@ -5,6 +5,7 @@ This project implements a line following robot using a PSOC (Programmable System
 
 ## Hardware Architecture
 The hardware architecture of the system is implemented on a Zynq-based FPGA, as shown in the block diagram. The main components include:
+![diag](https://github.com/user-attachments/assets/d4de9e29-0fea-43dd-be81-f16ae77b805f)
 
 - **Processing System (ps7.0_axi_periph)**: Central Zynq processing system
 - **Motor Controllers (this is an IP that was developped in VHDL )**:
@@ -153,3 +154,4 @@ The architecture features AXI interconnect for communication between the process
 - Add PI control for smoother line following
 - Implement speed optimization
 - Enhance obstacle avoidance algorithms
+
