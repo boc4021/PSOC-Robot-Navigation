@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="Final_App_3C" location="H:/Projet_PSOC/Workspace/Final_App_3C" platform="H:/Projet_PSOC/Workspace/final_IR_L_Choc/export/final_IR_L_Choc/final_IR_L_Choc.xpfm" platformUID="xilinx:zybo-z7-20::0.0(custom)" systemProject="Final_App_3C_system" sysConfig="final_IR_L_Choc" runtime="cpp" cpu="standalone_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="4c9f133477e07b90966d3631902be9ff">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1190227294">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.476246367" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
